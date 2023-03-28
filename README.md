@@ -7,6 +7,7 @@ Implement on music:
 Implement on speech: 
 <p align="center">
 <img src="https://github.com/niart/Implement-paper-Audio-Declipping-with-Social-Sparsity-/blob/main/speech.png" width=50% height=50%>
+  
 Original audio:
 <p align="center">
 <img src="https://github.com/niart/Implement-paper-Audio-Declipping-with-Social-Sparsity-/blob/main/input.png" width=50% height=50%>
